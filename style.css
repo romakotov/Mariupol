@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+p {
+    text-align: left ;
+}
+iframe{
+    border: 5px solid purple;
+}
